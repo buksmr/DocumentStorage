@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DocumentExtn:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DocumentExtn_jar</output-path>
+    <root id="archive" name="DocumentExtn.jar">
+      <element id="module-output" name="DocumentExtn" />
+    </root>
+  </artifact>
+</component>
